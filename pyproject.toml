@@ -1,0 +1,9 @@
+[project]
+name = "movie-watchlist"
+version = "0.1.0"
+description = "Rip off letterboxd watchlist for my own personal use! NOICE!"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "tmdbsimple>=2.9.1",
+]
